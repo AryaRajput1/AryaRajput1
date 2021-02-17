@@ -2,9 +2,9 @@
 ## I'm a Student, coder, Developer, and mini-Teacher 😁!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on a Project
+- 📌 I’m looking to collaborate on a Project
 - 🥅 2020 Goals: Make more projects
-- ⚡ Fun fact: I love to watch movies / webseries
+- ⚡ For Fun: I love to watch movies / webseries
 
 ### Connect with me💐:
 
@@ -12,7 +12,7 @@
 [<img align="left" alt="arya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="arya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="arya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="arya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="arya | github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 <br />
 
@@ -38,7 +38,7 @@
 
  
 
-[instagram]: https://www.linkedin.com/in/arya-rajput-342b081a1/
+[instagram]: https://www.instagram.com/in/_rajarya/
 [linkedin]: https://www.linkedin.com/in/arya-rajput-342b081a1/
 [fb]: https://m.facebook.com/profile.php?lst=100037482221700%3A100037482221700%3A1613572733
 [twitter]: https://twitter.com/AryaRaj98052919?s=09
