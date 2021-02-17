@@ -1,9 +1,9 @@
-### Hi there, I'm Arya Rajput !### 👋
+### Hi there, I'm Arya Rajput 😎 ! 👋
 ## I'm a Student, coder, Developer, and mini-Teacher 😁!!
 
 - 🌱 I’m currently learning everything 🤣
 - 📌 I’m looking to collaborate on a Project
-- 🥅 2020 Goals: Make more projects
+- 🥅 2021 Goals: Make more projects
 - ⚡ For Fun: I love to watch movies / webseries
 
 ### Connect with me📡:
