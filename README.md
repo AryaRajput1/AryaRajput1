@@ -36,6 +36,8 @@
 <img align="left" alt="wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/wordpress/wordpress.png" />
 
 <br />
+<img align="left" alt="wordpress" width="26px" src="https://github-readme-stats.vercel.app/api?username=aryarajput1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
 
  
 
