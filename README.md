@@ -38,10 +38,10 @@
 <br />
 <br />
 <br />
-<img align="center" alt="wordpress" width="260px" src="https://github-readme-stats.vercel.app/api?username=aryarajput1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img align="left" alt="Stats" width="250px" src="https://github-readme-stats.vercel.app/api?username=AryaRajput1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img align="left" alt="Stats" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaRajput1&theme=dark&hide_langs_below=1" />
 
 
- 
 
 [instagram]: https://www.instagram.com/in/_rajarya/
 [linkedin]: https://www.linkedin.com/in/arya-rajput-342b081a1/
